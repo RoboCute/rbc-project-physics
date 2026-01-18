@@ -1,9 +1,9 @@
 {
-    "name": "AIGCRobocuteProject",
+    "name": "PhysicsRobocuteProject",
     "version": "0.1.0",
     "rbc_version": "0.2.0",
     "author": "sailing-innocent",
-    "description": "This it the aigc template file for Robocute Project",
+    "description": "This it the physics simulation template file for Robocute Project",
     "paths": {
         "assets": "assets",
         "docs": "docs",
@@ -24,6 +24,6 @@
             "simulation"
         ],
         "license": "Apache-2.0",
-        "repository": "https://github.com/RoboCute/rbc-project-default"
+        "repository": "https://github.com/RoboCute/rbc-project-physics"
     }
 }
