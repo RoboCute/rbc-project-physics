@@ -3,6 +3,10 @@
 *.rbcb.tmp
 *.log
 
+# resource file
+*.7z
+*.zip
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -15,6 +19,18 @@ Thumbs.db
 *.tmp
 *.cache
 uv.lock
+__pycache__
+*.egg-info
+.pytest_cache
+.mypy_cache
 
-# Local Files
+# Local Sensible Files
 .env
+
+# Build Result File
+release
+*.exe
+*.dll
+*.lib
+*.pyd
+*.exp
